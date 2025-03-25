@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sou Rafael Pecorari 
+ - Aluno de analise e desenvolvimento de sistemas - Faculdade do SENAI
+ - conhecimento em : html, css, JavaScript, python, SQL, java e git
+   
+---
+### GitHub Stats
 
-<!--
-**RafaelPecorari/RafaelPecorari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelPecorari&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPecorari&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🚀 &nbsp;Algumas linguagens e tecnologias que já usei</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
+
+
+</p>
