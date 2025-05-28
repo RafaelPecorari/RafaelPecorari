@@ -1,4 +1,4 @@
-# hii, i am Rafael Pecorari 
+# Olaa, eu sou Rafael Pecorari 
  - Aluno de analise e desenvolvimento de sistemas - Faculdade do SENAI
  - conhecimento em : html, css, JavaScript, python, SQL, java e git
    
